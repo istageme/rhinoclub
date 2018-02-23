@@ -24,11 +24,16 @@
         "display4Font": "Poppins",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.6.3",
     "uniqCompNum": 21,
     "versionPublish": "4.6.3"
@@ -37,8 +42,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "犀牛俱乐部",
+        "meta_descr": "犀牛俱乐部",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
