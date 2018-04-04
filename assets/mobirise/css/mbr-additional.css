@@ -1330,6 +1330,7 @@ body {
 .cid-qKr3Ifq5wD .navbar .mbr-overlay {
   transition: all .3s;
   background: #ffef00;
+  background: none;
 }
 .cid-qKr3Ifq5wD .navbar.opened .mbr-overlay {
   transition: all .3s;
